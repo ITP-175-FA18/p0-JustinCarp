@@ -13,3 +13,16 @@ let test1 = 6;
 let test2 = 87;
 let test3 = 486;
 let test4 = -40;
+
+
+console.log(test1 + test2)
+console.log(test3 + test4)
+
+var numSum = 20
+var numSum1 = 37
+console.log(numSum + numSum1)
+
+
+
+
+

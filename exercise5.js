@@ -16,3 +16,14 @@ let test17 = {
 }
 let test18 = new Date('2018-02-17T06:24:00');
 let test19 = Math;
+
+let key1 = [ "val1" ]
+let key2 = [ "val2" ]
+let key3 = [ "val3" ]
+console.log(key1)
+console.log(key2)
+console.log(key3)
+
+newDate = ( "October-29-2018" )
+console.log(newDate) 
+
